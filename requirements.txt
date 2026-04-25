@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+PyPDF2
+vaderSentiment
+transformers
+torch
+numpy
